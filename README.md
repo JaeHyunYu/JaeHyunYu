@@ -12,12 +12,13 @@
 <div align="center">
 <h3 align="center">📫 Contact 📫</h3>
 <p>
-<a href="https://instagram.com/yu_jaehyun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yu_jaehyun" height="30" width="40" />
-<a href="mailto:slade12307@gmail.com">
-    <img
-      src="https://img.shields.io/badge/slade12307@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
+<a href="https://instagram.com/yu_jaehyun" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yu_jaehyun" height="30" width="40" /> 
 </a>
+ 
+<a href="mailto:slade12307@gmail.com">
+    <img src="https://img.shields.io/badge/slade12307@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
 </p>
 </div>
 
@@ -26,10 +27,16 @@
 
 <div align="center">
   <h2> Cyber</h2>
-  siem(splunk), utm(ahnlab-epp), nac(genian), vaccine(ahnlab), 
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+
+  <img src="https://img.shields.io/badge/SEIM-Security_Event_Information_Management-blue"/>
+  <img src="https://img.shields.io/badge/NAC-Network_Access_Control-green"/>
+  <img src="https://img.shields.io/badge/UTM-Unified_Threat_Management-%2311faf2"/>
+  <img src="https://img.shields.io/badge/Virus_Management-Anti_Virus-%23ba8cde"/>
+  <p>
+  <img src="https://img.shields.io/badge/splunk-000000.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/genian-000000.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ahnlab-000000.svg?style=for-the-badge" />
+      </p>
 </div>
 
 <div align="center">
@@ -60,7 +67,7 @@
   <h2> Awards & Paper </h2>
  논문, 수상경력
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  SIEM<img src="https://img.shields.io/badge/splunk-000000.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
+  
   <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
 </div>
