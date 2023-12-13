@@ -1,14 +1,25 @@
-<h1 align="center">Hi 👋, I'm JaeHyun Yu</h1>
-<h3 align="center">A passionate Security Expert & Full Stack developer from Korea</h3>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-- 🔭 I’m currently working on **Korean Army**
 
-- 👯 I’m looking to collaborate on **IT Security Team!**
+<p>Welcome to my page! </br> I'm JaeHyun Yu, Specialist for Information Security & Fullstack developer from Seoul, Korea 🇰🇷🇰🇷</b>,  </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/yu_jaehyun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yu_jaehyun" height="30" width="40" /></a>
+<div align="center">
+<h1 align="center">🔥 A passionate Security Expert & Full Stack developer 🔥</h1>
+- 🖥 I’m currently working on **Korean Army**
+- 🤝 I’m looking to collaborate on **IT Security Team!**
+</div>
+
+<div align="center">
+<h3 align="center">📫 Contact 📫</h3>
+<p>
+<a href="https://instagram.com/yu_jaehyun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yu_jaehyun" height="30" width="40" />
+<a href="mailto:slade12307@gmail.com">
+    <img
+      src="https://img.shields.io/badge/slade12307@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+</a>
 </p>
+</div>
 
 <h3 align="left">Languages and Tools I Use</h3>
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -23,9 +34,10 @@
 
 <div align="center">
   <h2> Web & APP </h2> http5, css, javascript, react, reactnative, typescript
+  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+  
 </div>
 
 <div align="center">
@@ -85,7 +97,7 @@
   <a href="https://velog.io/@oka1313">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-  <a href="mailto:oka1313@gmail.com">
+  <a href="mailto:slade12307@gmail.com">
     <img
       src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
