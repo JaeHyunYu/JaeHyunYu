@@ -53,7 +53,36 @@
 <div align="center">
   <h2> Awards & Paper </h2>
  논문, 수상경력
-  
+ Certificate
+
+Engineer Information Processing(정보처리기사)
+Engineer Information Security(정보보안기사)
+CPPG(Certified Privacy Protection)
+SQL Developer(SQLD)
+Linux Master Level-2(리눅스마스터)
+PILOT OF AN ULTRA LIGHT Vehicle Level-1(초경량비행장치 조종자 1종)
+ITQ OA Master(Excel, PowerPoint, Hanguel)
+
+
+Paper
+A Survey on Air-Gap Attacks: Fundamentals, Transport Means, Attack Scenarios and Challenges(mdpi sensors)
+https://www.mdpi.com/1424-8220/23/6/3215
+
+ A Survey on Air-Gap Attacks: Fundamental, Transport Means, Attack Scenarios and Challenges (TIIS-SP-2022-Nov-1174)
+
+사이버 공격 대응을 위한 최신 망분리 공격 동향 연구
+KICS(한국통신학회)
+
+Award
+2017.10 Sejong Coding Challenge week 4th
+2018.12 Sejong SW Contest 5th
+2019.10  Korea Electronics Technology Institute Award
+2019.09 SW Coding Contest Award
+2019.12 Sejong SW_AI Hackertone Award
+2020.07 Sejong SW_AI Hackertone Award
+2023.11 육군사이버보안경진대회 수상
+2023.11 (Top Team/300 Warrior Cyber Part Award)육군최정예 사이버300 워리어 선발
+
   
   <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
