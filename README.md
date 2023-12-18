@@ -5,23 +5,12 @@
 
 <div align="center">
 <h1 align="center">🔥 A passionate Security Expert & Full Stack developer 🔥</h1>
-- 🖥 I’m currently working on **Korean Army**
-- 🤝 I’m looking to collaborate on **IT Security Team!**
-</div>
-
-<div align="center">
-<h3 align="center">📫 Contact 📫</h3>
-<p>
-<a href="https://instagram.com/yu_jaehyun" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yu_jaehyun" height="30" width="40" /> 
-</a>
  
-<a href="mailto:slade12307@gmail.com">
-    <img src="https://img.shields.io/badge/slade12307@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  
-</p>
+🖥 I’m currently working on **Korean Army**
+<br>
+🤝 I’m looking to collaborate on **IT Security Team!**
 </div>
-
+<br>
 <h3 align="left">Languages and Tools I Use</h3>
 <h3 align="center">✨ Tech Stack ✨</h3>
 
@@ -97,13 +86,15 @@
 
 <br>
 
-<h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+<h3 align="center">📫 Contact 📫</h3>
+<p>
+<a href="https://instagram.com/yu_jaehyun" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yu_jaehyun" height="30" width="40" /> 
+</a>
+ 
+<a href="mailto:slade12307@gmail.com">
+    <img src="https://img.shields.io/badge/slade12307@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="mailto:slade12307@gmail.com">
-    <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
+  
+</p>
 </div>
