@@ -8,12 +8,15 @@
 <br>
 🤝 I’m looking to collaborate on **IT Security Team!**
 </div>
-<br>
 
 # 🔎 Carrer
- - **🏫 2017~2020. Sejong Univ(KOR) - Information Security Major  (2020. Epita(France) Computer Security master's course / Exchange Student(Suspension due to Covid))** 
- - **🖥 2021~2024. Korea Amry - Cyberattack Response Officer**
- 
+ - **🏫 2017~2020. Sejong Univ(KOR)**
+   - Information Security Major
+   - 2020. Epita(France) Computer Security master's course / Exchange Student(Suspension due to Covid)
+ - **🖥 2021~2024. Korea Amry**
+   - 2021~2022. Company Commander
+   - 2022~2024. Cyber Attack Response Officer (Lieutenant)
+<br>
 
 # ✨ Tech Stack ✨
  - **Cyber**
@@ -39,9 +42,12 @@
    - 📝 ITQ OA Master(Excel, PowerPoint, Hanguel)
 
 - **📃Paper**
-   - A Survey on Air-Gap Attacks: Fundamentals, Transport Means, Attack Scenarios and Challenges(mdpi sensors) / https://www.mdpi.com/1424-8220/23/6/3215
-   - A Survey on Air-Gap Attacks: Fundamental, Transport Means, Attack Scenarios and Challenges (TIIS-SP-2022-Nov-1174)
-   - A Study on the latest Air Gap attacks for countering Cyber attacks (사이버 공격 대응을 위한 최신 망분리 공격 동향 연구) KICS(한국통신학회)
+   - A Survey on Air-Gap Attacks: Fundamentals, Transport Means, Attack Scenarios and Challenges
+     - MDPI Sensors (https://www.mdpi.com/1424-8220/23/6/3215)
+   - A Survey on Air-Gap Attacks: Fundamental, Transport Means, Attack Scenarios and Challenges
+     - KSII Transactions on Internet and Information Systems (TIIS-SP-2022-Nov-1174)
+   - A Study on the latest Air Gap attacks for countering Cyber attacks (사이버 공격 대응을 위한 최신 망분리 공격 동향 연구)
+     - KICS(한국통신학회)
 
 - **🏆 Award**
   - 2017.10 Sejong Coding Challenge week 4th
