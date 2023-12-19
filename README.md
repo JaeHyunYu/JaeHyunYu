@@ -18,6 +18,7 @@
    - 2022~2024. Cyber Attack Response Officer (Lieutenant)
 <br>
 
+
 # ✨ Tech Stack ✨
  - **Cyber**
    - <img src="https://img.shields.io/badge/SIEM-Security_Information_Event_Management-blue"/> <img src="https://img.shields.io/badge/splunk-000000.svg" /> 
@@ -68,5 +69,5 @@
 <br>
      
 # 📫 Contact
- - <a href="mailto:slade12307@gmail.com"> <img src="https://img.shields.io/badge/slade12307@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://instagram.com/yu_jaehyun" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yu_jaehyun" height="30" width="40" /> 
-</a>
+<a href="mailto:slade12307@gmail.com"> <img src="https://img.shields.io/badge/slade12307@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>  
+<a href="https://instagram.com/yu_jaehyun" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yu_jaehyun" height="30" width="40" /> </a>
