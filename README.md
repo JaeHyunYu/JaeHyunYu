@@ -31,11 +31,12 @@
    - <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/> <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/> 
 <br>
+ <!--  🔒 Engineer Information Security(정보보안기사)-->
   
 # Certificate & Paper & Award
  - **⭐Certificate**
    - 📓 Engineer Information Processing(정보처리기사)
-   - 🔒 Engineer Information Security(정보보안기사)
+
    - 🔨 CPPG(Certified Privacy Protection)
    - 📓 SQL Developer(SQLD)
    - 📓 Linux Master Level-2(리눅스마스터)
