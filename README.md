@@ -72,3 +72,4 @@
 # 📫 Contact
 <a href="mailto:slade12307@gmail.com"> <img src="https://img.shields.io/badge/slade12307@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>  
 <a href="https://instagram.com/yu_jaehyun" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yu_jaehyun" height="30" width="40" /> </a>
+<a href="https://yu-dev-record.tistory.com/" target="blank"><img src="https://img.shields.io/badge/storyblok-%2320232a.svg?style=for-the-badge&logo=storyblok" /> </a>
