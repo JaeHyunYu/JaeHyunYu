@@ -16,7 +16,7 @@
  - **🖥 2021~2024. Korea Amry**
    - 2021~2022. Company Commander
    - 2022~2024. Cyber Attack Response Officer (Lieutenant)
-  - **😎 2024~. Samsung Global Research**
+ - **😎 2024~. Samsung Global Research**
    - 2024~. IT Solution
 <br>
 
