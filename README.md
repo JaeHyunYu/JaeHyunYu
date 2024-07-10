@@ -4,7 +4,7 @@
  Welcome to my page!
 <p> I'm JaeHyun Yu, Specialist for Information Security & Fullstack developer from Seoul, Korea</p>
  
- 🖥 I’m currently working on **Korean Army**
+ 🖥 I’m currently working on **Korean Samsung Global Research**
 <br>
 🤝 I’m looking to collaborate on **IT Security Team!**
 </div>
