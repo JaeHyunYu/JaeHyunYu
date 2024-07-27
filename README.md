@@ -38,8 +38,8 @@
 # Certificate & Paper & Award
  - **⭐Certificate**
    - 📓 Engineer Information Processing(정보처리기사)
-
    - 🔨 CPPG(Certified Privacy Protection)
+   - 📓 ADsP(데이터분석준전문가)
    - 📓 SQL Developer(SQLD)
    - 📓 Linux Master Level-2(리눅스마스터)
    - ✈️ PILOT OF AN ULTRA LIGHT Vehicle Level-1(초경량비행장치 조종자 1종)
