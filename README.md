@@ -37,6 +37,7 @@
   
 # Certificate & Paper & Award
  - **⭐Certificate**
+   - 📓 Engineer Information Security(정보보안기사)
    - 📓 Engineer Information Processing(정보처리기사)
    - 🔨 CPPG(Certified Privacy Protection)
    - 📓 ADsP(데이터분석준전문가)
